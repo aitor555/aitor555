@@ -1,9 +1,9 @@
 
-<h1 style="border-bottom:none;"> Hi, im Gabriel 👋 
+<h1 style="border-bottom:none;"> Hi, I'm Gabriel 👋 
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="300" src="img/hacker2.png" />
 
-Web developer and graphic designer from Norway with a focus on creating intuitive solutions. Interested in creating solutions for *people* and beautiful designs.
+Web developer and graphic designer from Norway with a focus on interesting, intuitive solutions. Interested in creating solutions for *people* and beautiful designs.
 
 front-end / full-stack / graphics / 3D
 <br><br>
