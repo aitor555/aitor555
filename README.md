@@ -1,7 +1,7 @@
 
 <h1 style="border-bottom:none;"> Hi, I'm Gabriel 👋 
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="300" src="img/hacker2.png" />
+<img align="right" alt="illustration of a hacker from the game cyberpunk2020." width="300" src="img/hacker2.png" />
 
 Web developer and graphic designer from Norway with a focus on interesting, intuitive solutions. Interested in creating solutions for *people* and beautiful designs.
 
